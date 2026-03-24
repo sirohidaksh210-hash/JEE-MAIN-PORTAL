@@ -58,3 +58,10 @@ The "Bad Typist" Test: When asked for your Application Number, type letters inst
 The "Wrong Category" Test: When asked for your category at the very end, type something random like "ALIEN" or misspell "GENERAL". It will block it until you enter a valid Indian reservation category.
 
 The "Lucky/Unlucky" Test: Run the app 2-3 times to see the random number generator in action. Sometimes you'll fail miserably, and sometimes you'll clear the cutoff for JEE Advanced!
+
+SCREENSHOT FOR FINAL OUTPUT
+
+<img width="1120" height="883" alt="image" src="https://github.com/user-attachments/assets/6eddbd14-6b62-4426-817f-631eba84c27a" />
+
+<img width="1118" height="910" alt="image" src="https://github.com/user-attachments/assets/025473d7-b205-4915-b9af-1658ea6f08a8" />
+
